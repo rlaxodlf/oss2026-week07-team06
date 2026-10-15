@@ -53,4 +53,12 @@ section {
 
 /* ===== C: #faq ===== */
 /* 선택자는 #faq 로 시작합니다. 예: #faq .question { ... } */
+#faq .question {
+  font-weight: bold;
+  margin-bottom: 0;
+}
 
+#faq .answer {
+  color: gray;
+  margin-top: 4px;
+}
