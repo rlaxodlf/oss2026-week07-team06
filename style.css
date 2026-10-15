@@ -1,0 +1,56 @@
+/* ===== 공통 (건드리지 않습니다) ===== */
+body {
+  margin: 0;
+  font-family: "Segoe UI", "Malgun Gothic", sans-serif;
+  color: #222222;
+  background: #f5f6f8;
+  line-height: 1.6;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+section {
+  background: white;
+  margin: 24px 0;
+  padding: 24px;
+  border-radius: 8px;
+}
+
+.site-header {
+  background: #1f3a5f;
+  color: white;
+  padding: 16px 24px;
+}
+
+.site-header .logo {
+  margin: 0;
+  font-weight: bold;
+}
+
+.site-header nav a {
+  color: white;
+  margin-right: 16px;
+}
+
+.site-footer {
+  text-align: center;
+  color: #777777;
+  font-size: 14px;
+  padding: 24px;
+}
+
+/* ===== A: #intro ===== */
+/* 선택자는 #intro 로 시작합니다. 예: #intro h1 { ... } */
+
+
+/* ===== B: #schedule ===== */
+/* 선택자는 #schedule 로 시작합니다. 예: #schedule table { ... } */
+
+
+/* ===== C: #faq ===== */
+/* 선택자는 #faq 로 시작합니다. 예: #faq .question { ... } */
+
