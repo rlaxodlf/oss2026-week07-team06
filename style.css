@@ -45,6 +45,17 @@ section {
 
 /* ===== A: #intro ===== */
 /* 선택자는 #intro 로 시작합니다. 예: #intro h1 { ... } */
+#intro {
+    text-align: center;
+}
+#intro .cta {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: blue; 
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
 
 
 /* ===== B: #schedule ===== */
